@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# williamnguyen.dev
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My personal website built using React. Contains a blog, write-ups about my internship experience and some things about me. 
 
 ## Available Scripts
 
